@@ -154,3 +154,10 @@ while n<=10:
         
         
 #nested loop
+'''for i in range(1,5):
+    for n in range(1,3):
+        name= input("enter name:")
+        print(name)
+    print("class",i)'''
+    
+    
