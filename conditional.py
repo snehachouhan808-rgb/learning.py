@@ -114,3 +114,43 @@ if letter in "aeiou":
 else:
     print("not an vowel")'''
     
+#check wheater a no. is single or multi digit no.
+
+#num= int(input ("enter num:"))
+
+'''if num>0 and num<9:
+    print("one digit")    
+elif num>=10 and num<99:
+    print("two digit")
+elif num>=100 and num<999:
+    print("three digit")
+elif num>=1000 and num<9999:
+    print("four digit") '''   
+    
+    
+#print table    
+'''num= int(input ("enter num:"))    
+for i in range (1,10):
+    print(i,"*",num,"=",num*i)'''
+    
+#while loop
+
+#table print
+'''a=int(input("enter num:"))
+n=1
+while n<=10:
+    print(n,"*",a,"=",a*n)
+    n=n+1'''
+    
+    
+#while true
+'''while True:
+    num1=int(input("enter num:"))
+    num2=int(input("enter num:"))
+    print(num1+num2)
+    a=(input("do you want to end this program give me ans in yes or no:"))
+    if a=="yes":
+        break'''
+        
+        
+#nested loop
