@@ -78,6 +78,13 @@ elif opration == "/":
         print(num1/num2)
 else:
     print("error")'''
+    
+
+#short hand if statement
+'''a= int(input("enter no:"))'''
+'''if a>87: print("you are an excellent student")'''
+
+'''print("you're an excellent student") if a>90 else print("avg")'''#(if,else)
 
 # print no. from 1 to 10
 '''a=1
@@ -92,4 +99,18 @@ while a<=50:
         print(a)
     a=a+1'''
     
+# print multiplication table for any no.
+'''num = int(input("enter no:"))
+a=1
+while a<=10:
+    print(a*num)
+    a=a+1'''
+    
+#check vowel
+'''letter = input("enter letter:")
+
+if letter in "aeiou":
+    print("it is a vowel")
+else:
+    print("not an vowel")'''
     
